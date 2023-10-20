@@ -8,6 +8,12 @@
         },
         {
             "start": "2020-10-15",
+            "text": "¡Parcheador y launcher!",
+            "src": "/main/@connect/assets/jackboxutility.png",
+            "href": "https://traducciones.jackbox.lol/descargas/"
+        },
+        {
+            "start": "2020-10-15",
             "text": "¡Nuestro Discord!",
             "src": "/main/@connect/assets/discord.png",
             "href": "https://discord.com/invite/tmwF8sEfTp"
@@ -24,12 +30,6 @@
             "text": "¡Página en catalán!",
             "src": "/main/@connect/assets/catalan.png",
             "href": "https://jackbox.cat/"
-        },
-        {
-            "start": "2020-10-15",
-            "text": "¡Launcher de Jackbox!",
-            "src": "/main/@connect/assets/jackstrunk.png",
-            "href": "https://foolishpixel.com/jackstrunk/"
         }
     ],
 
